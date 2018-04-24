@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.soracom</groupId>
+  <artifactId>soracom-inventory-agent-for-java-example</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180424131514</lastUpdated>
+  </versioning>
+</metadata>
