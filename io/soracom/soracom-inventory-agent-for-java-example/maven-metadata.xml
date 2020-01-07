@@ -3,9 +3,10 @@
   <groupId>io.soracom</groupId>
   <artifactId>soracom-inventory-agent-for-java-example</artifactId>
   <versioning>
+    <latest>0.0.7-SNAPSHOT</latest>
     <versions>
       <version>0.0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200107101010</lastUpdated>
+    <lastUpdated>20200107121016</lastUpdated>
   </versioning>
 </metadata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>io.soracom</groupId>
-  <artifactId>soracom-inventory-agent-for-java-example</artifactId>
+  <artifactId>soracom-inventory-agent-for-java-core</artifactId>
   <version>0.0.7-SNAPSHOT</version>
   <versioning>
     <snapshot>
