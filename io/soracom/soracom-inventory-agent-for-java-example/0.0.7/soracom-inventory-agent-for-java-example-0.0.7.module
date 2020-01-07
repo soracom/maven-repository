@@ -1,0 +1,93 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.soracom",
+    "module": "soracom-inventory-agent-for-java-example",
+    "version": "0.0.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "kpqii6idfvh3jdjocvydxal6s4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 7,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "commons-cli",
+          "module": "commons-cli",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "io.soracom",
+          "module": "soracom-inventory-agent-for-java-core",
+          "version": {
+            "requires": "0.0.7"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "soracom-inventory-agent-for-java-example-0.0.7.jar",
+          "url": "soracom-inventory-agent-for-java-example-0.0.7.jar",
+          "size": 11862,
+          "sha512": "1e83c722a83bc3678c21c054c508b263b9f4af7f8940d60f49a96638cc5d52d5e2df624a45137aa1febce625596258771e952e008e49375f290590560f96f6fb",
+          "sha256": "95d25c6fd592eccd3c15bb5529c8a1cff6b98c21b132fddfb854a0c373e1f623",
+          "sha1": "c6ced2071ca64b890496ce94572f53b8158904db",
+          "md5": "e3addca807c21a087efcb03b616e151"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 7,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "commons-cli",
+          "module": "commons-cli",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "io.soracom",
+          "module": "soracom-inventory-agent-for-java-core",
+          "version": {
+            "requires": "0.0.7"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "soracom-inventory-agent-for-java-example-0.0.7.jar",
+          "url": "soracom-inventory-agent-for-java-example-0.0.7.jar",
+          "size": 11862,
+          "sha512": "1e83c722a83bc3678c21c054c508b263b9f4af7f8940d60f49a96638cc5d52d5e2df624a45137aa1febce625596258771e952e008e49375f290590560f96f6fb",
+          "sha256": "95d25c6fd592eccd3c15bb5529c8a1cff6b98c21b132fddfb854a0c373e1f623",
+          "sha1": "c6ced2071ca64b890496ce94572f53b8158904db",
+          "md5": "e3addca807c21a087efcb03b616e151"
+        }
+      ]
+    }
+  ]
+}
