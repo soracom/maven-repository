@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "zgzcdyvucvaafoasp3garrvfaq"
+      "buildId": "ckgmfaa4zfeo5ewoqomjquktea"
     }
   },
   "variants": [
@@ -66,10 +66,10 @@
           "name": "soracom-inventory-agent-for-java-core-0.0.9.jar",
           "url": "soracom-inventory-agent-for-java-core-0.0.9.jar",
           "size": 127581,
-          "sha512": "14eca9023600529a40fc4cbe4cc2f27f50f19170e0e2869cfb33c1a6b05385c285e4749eb7b62885adb943c151a154c0c3f2a106cd8ba12d30ccbe9ec31d4ba5",
-          "sha256": "c2575756f7a33c99c3417a12167cabfecb13043197b19aac1420d3219a498114",
-          "sha1": "50ee5490161ab14f3b0e97b89814b2172063e326",
-          "md5": "96c56890368aa56dbb0625d6062b5d81"
+          "sha512": "dac91ab8dcfed4d3187fb80371f5ce83ae80b0d67000c4a4e4f1a226b0d90ac5c636b082062eea5fad9ba260ca2b09654980acec490037621b7e4346e40cb4df",
+          "sha256": "94af94ea6cd9f06ef63a1da3dde4e6739bceabbbb7d1e0de1d8e4a63e4ca8b6a",
+          "sha1": "8401fd566e7c7b76c9b27d597fce70c65f1815b",
+          "md5": "c1622ff27fe63679fec7254b96caf6c7"
         }
       ]
     },
@@ -124,10 +124,10 @@
           "name": "soracom-inventory-agent-for-java-core-0.0.9.jar",
           "url": "soracom-inventory-agent-for-java-core-0.0.9.jar",
           "size": 127581,
-          "sha512": "14eca9023600529a40fc4cbe4cc2f27f50f19170e0e2869cfb33c1a6b05385c285e4749eb7b62885adb943c151a154c0c3f2a106cd8ba12d30ccbe9ec31d4ba5",
-          "sha256": "c2575756f7a33c99c3417a12167cabfecb13043197b19aac1420d3219a498114",
-          "sha1": "50ee5490161ab14f3b0e97b89814b2172063e326",
-          "md5": "96c56890368aa56dbb0625d6062b5d81"
+          "sha512": "dac91ab8dcfed4d3187fb80371f5ce83ae80b0d67000c4a4e4f1a226b0d90ac5c636b082062eea5fad9ba260ca2b09654980acec490037621b7e4346e40cb4df",
+          "sha256": "94af94ea6cd9f06ef63a1da3dde4e6739bceabbbb7d1e0de1d8e4a63e4ca8b6a",
+          "sha1": "8401fd566e7c7b76c9b27d597fce70c65f1815b",
+          "md5": "c1622ff27fe63679fec7254b96caf6c7"
         }
       ]
     }
