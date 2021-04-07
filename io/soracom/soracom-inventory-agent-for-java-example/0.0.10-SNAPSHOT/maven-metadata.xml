@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.soracom</groupId>
+  <artifactId>soracom-inventory-agent-for-java-example</artifactId>
+  <version>0.0.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210407.122610</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210407122610</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.0.10-20210407.122610-1</value>
+        <updated>20210407122610</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.10-20210407.122610-1</value>
+        <updated>20210407122610</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.10-20210407.122610-1</value>
+        <updated>20210407122610</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.10-20210407.122610-1</value>
+        <updated>20210407122610</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
