@@ -1,0 +1,135 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.soracom",
+    "module": "soracom-inventory-agent-for-java-core",
+    "version": "0.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "hwhy65disvguxdzjvtnvfcu7au"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 7,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.eclipse.leshan",
+          "module": "leshan-client-core",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "org.eclipse.leshan",
+          "module": "leshan-client-cf",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-simple",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "io.soracom",
+          "module": "soracom-krypton-client-for-java",
+          "version": {
+            "requires": "0.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "soracom-inventory-agent-for-java-core-0.1.1.jar",
+          "url": "soracom-inventory-agent-for-java-core-0.1.1.jar",
+          "size": 129360,
+          "sha512": "7324bcd214c2e23e5ece404d6531523f291f8378f61a991fc4f18ec9d117ad119bad6323a4a22336d2de4ad7bc950a38a0ecee8f4d77c3da997fabd35c9a567b",
+          "sha256": "84e92e515ebf67f46ecd99296842eb7eed84ee0233710e18b44ad6c5270f5ad5",
+          "sha1": "d3ee6b07ebba0b1d0db87d0f5db6696d70491642",
+          "md5": "16b2078579bf4b3688e2756a70440fb8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 7,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.eclipse.leshan",
+          "module": "leshan-client-core",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "org.eclipse.leshan",
+          "module": "leshan-client-cf",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-simple",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "io.soracom",
+          "module": "soracom-krypton-client-for-java",
+          "version": {
+            "requires": "0.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "soracom-inventory-agent-for-java-core-0.1.1.jar",
+          "url": "soracom-inventory-agent-for-java-core-0.1.1.jar",
+          "size": 129360,
+          "sha512": "7324bcd214c2e23e5ece404d6531523f291f8378f61a991fc4f18ec9d117ad119bad6323a4a22336d2de4ad7bc950a38a0ecee8f4d77c3da997fabd35c9a567b",
+          "sha256": "84e92e515ebf67f46ecd99296842eb7eed84ee0233710e18b44ad6c5270f5ad5",
+          "sha1": "d3ee6b07ebba0b1d0db87d0f5db6696d70491642",
+          "md5": "16b2078579bf4b3688e2756a70440fb8"
+        }
+      ]
+    }
+  ]
+}
